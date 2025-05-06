@@ -13,7 +13,6 @@ We evaluate the BLIP-2 model in a zero-shot setting on the VQA-RAD dataset and a
 
 - `BLIP2_VQA_RAD_Inference_FIXED.ipynb` – Main Colab notebook for inference and fine-tuning attempts
 - `VQA_RAD Dataset Public.json` – QA pairs used in inference
-- `VQA_RAD Image Folder` – Folder of de-identified radiology images
 - `Reproducing_Med_VQA__Visual_Question_Answering_in_Radiology.pdf` – Final project report (single-column version)
 
 ## 📊 Reproduced Results
