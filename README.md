@@ -36,10 +36,6 @@ We evaluate the BLIP-2 model in a zero-shot setting on the VQA-RAD dataset and a
 2. Run the `BLIP2_VQA_RAD_Inference.ipynb` notebook
 3. Evaluate predictions via string match
 
-## 📹 Project Presentation
-
-[🔗 Watch the 4-minute presentation here](ADD_YOUR_LINK_HERE)
-
 ## 📄 Final Report
 
 [📄 Download the full report (PDF)](ADD_REPORT_LINK_HERE)
@@ -54,3 +50,4 @@ This project was completed independently by **Aria Abrishamkar**.
 
 - This work was completed for the Deep Learning for Healthcare course (Spring 2025) at UIUC.
 - Due to Colab limitations, only inference was performed; fine-tuning crashed due to GPU memory.
+
