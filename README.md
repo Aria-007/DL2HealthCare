@@ -40,6 +40,11 @@ We evaluate the BLIP-2 model in a zero-shot setting on the VQA-RAD dataset and a
 
 [📄 Download the full report (PDF)](https://github.com/Aria-007/DL4HC_Project/blob/main/Reproducing_Med_VQA__Visual_Question_Answering_in_Radiology.pdf)
 
+## 📘 Colab Notebook
+
+[📘 Click here to open the notebook](https://github.com/Aria-007/DL4HC_Project/raw/main/BLIP2_VQA_RAD_Inference_FIXED.ipynb)
+
+
 ## 🙋 Author Contribution
 
 This project was completed independently by **Aria Abrishamkar**.
