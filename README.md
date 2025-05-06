@@ -1,4 +1,4 @@
-# DL2HealthCare
+# DL4HC_Project
 # Reproducing Med-VQA: Visual Question Answering in Radiology
 
 This repository contains the code, dataset references, and report for reproducing the Med-VQA task from the paper:
