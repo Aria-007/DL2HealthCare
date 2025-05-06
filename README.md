@@ -42,7 +42,7 @@ We evaluate the BLIP-2 model in a zero-shot setting on the VQA-RAD dataset and a
 
 ## 📘 Colab Notebook
 
-[📘 Click here to open the notebook](https://github.com/Aria-007/DL4HC_Project/raw/main/BLIP2_VQA_RAD_Inference_FIXED.ipynb)
+[📘 Click here to open the notebook](https://github.com/Aria-007/DL4HC_Project/blob/main/BLIP2_VQA_RAD_Inference_FIXED.ipynb))
 
 
 ## 🙋 Author Contribution
